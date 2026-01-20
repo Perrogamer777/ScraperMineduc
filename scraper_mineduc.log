@@ -1,0 +1,379 @@
+2026-01-20 12:39:33,836 - INFO - Iniciando scraping completo...
+2026-01-20 12:39:38,226 - INFO - Driver de Chrome configurado correctamente
+2026-01-20 12:39:42,160 - INFO - Obteniendo lista de regiones...
+2026-01-20 12:39:42,321 - INFO - Se encontraron 16 regiones
+2026-01-20 12:39:42,321 - INFO - 
+============================================================
+2026-01-20 12:39:42,321 - INFO - Procesando región: DE TARAPACÁ
+2026-01-20 12:39:42,321 - INFO - ============================================================
+2026-01-20 12:39:48,304 - INFO - Se encontraron 7 comunas
+2026-01-20 12:39:48,304 - INFO - 
+Procesando comuna: IQUIQUE
+2026-01-20 12:40:01,835 - INFO - Se encontraron 147 colegios en esta página
+2026-01-20 12:40:01,836 - INFO - Procesando colegio 1/147
+2026-01-20 12:40:05,720 - INFO - Datos extraídos: Academia Iquique - Tel: 2247188 - Matrícula: 387
+2026-01-20 12:40:05,722 - INFO - Procesando colegio 2/147
+2026-01-20 12:40:09,354 - INFO - Datos extraídos: Academia Nerudiana - Tel: 552765745 - Matrícula: 168
+2026-01-20 12:40:09,354 - INFO - Procesando colegio 3/147
+2026-01-20 12:40:12,926 - INFO - Datos extraídos: Aula Hospitalaria San Sebastian De Iquique - Tel: 993970597 - Matrícula: 153
+2026-01-20 12:40:12,927 - INFO - Procesando colegio 4/147
+2026-01-20 12:40:16,590 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31474
+2026-01-20 12:40:16,591 - INFO - Datos extraídos: Caballito De Mar - Tel: 57 2449640 - Matrícula: 
+2026-01-20 12:40:16,591 - INFO - Procesando colegio 5/147
+2026-01-20 12:40:20,037 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31414
+2026-01-20 12:40:20,038 - INFO - Datos extraídos: Caracolito - Tel: 57 2473170 - Matrícula: 
+2026-01-20 12:40:20,038 - INFO - Procesando colegio 6/147
+2026-01-20 12:40:23,856 - INFO - Datos extraídos: Centro De Capacitacion Laboral - Tel: 544777 - Matrícula: 84
+2026-01-20 12:40:23,857 - INFO - Procesando colegio 7/147
+2026-01-20 12:40:27,236 - INFO - Datos extraídos: Centro Trat. Integ. Los Tamarugos - Tel: 225190 - Matrícula: 113
+2026-01-20 12:40:27,236 - INFO - Procesando colegio 8/147
+2026-01-20 12:40:30,836 - INFO - Datos extraídos: Colegio Academia Tarapaca Orella - Tel: 2265200 - Matrícula: 1.301
+2026-01-20 12:40:30,837 - INFO - Procesando colegio 9/147
+2026-01-20 12:40:34,572 - INFO - Datos extraídos: Colegio Adventista De Iquique - Tel: 2425565 - Matrícula: 725
+2026-01-20 12:40:34,572 - INFO - Procesando colegio 10/147
+2026-01-20 12:40:38,524 - INFO - Datos extraídos: Colegio Antamara - Tel: 2384849 - Matrícula: 810
+2026-01-20 12:40:38,727 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (10 registros)
+2026-01-20 12:40:38,727 - INFO - Procesando colegio 11/147
+2026-01-20 12:40:43,037 - INFO - Datos extraídos: Colegio Bajo Molle - Tel: 2247156 - Matrícula: 1.873
+2026-01-20 12:40:43,039 - INFO - Procesando colegio 12/147
+2026-01-20 12:40:47,393 - INFO - Datos extraídos: Colegio Bulnes - Tel: 2247180 - Matrícula: 915
+2026-01-20 12:40:47,394 - INFO - Procesando colegio 13/147
+2026-01-20 12:40:50,989 - INFO - Datos extraídos: Colegio Deportivo Tec. Prof. Elena Duvauchelle Cabezon - Tel: 963399868 - Matrícula: 929
+2026-01-20 12:40:50,990 - INFO - Procesando colegio 14/147
+2026-01-20 12:40:54,450 - INFO - Datos extraídos: Colegio Diocesano Obispo Labbe - Tel: 2738501 - Matrícula: 1.184
+2026-01-20 12:40:54,450 - INFO - Procesando colegio 15/147
+2026-01-20 12:40:58,522 - INFO - Datos extraídos: Colegio Escasce - Tel: 2412974 - Matrícula: 387
+2026-01-20 12:40:58,523 - INFO - Procesando colegio 16/147
+2026-01-20 12:41:02,143 - INFO - Datos extraídos: Colegio Espana - Tel: 2544854 - Matrícula: 547
+2026-01-20 12:41:02,143 - INFO - Procesando colegio 17/147
+2026-01-20 12:41:06,514 - INFO - Datos extraídos: Colegio Golden North - Tel: 9070304 - Matrícula: 234
+2026-01-20 12:41:06,515 - INFO - Procesando colegio 18/147
+2026-01-20 12:41:10,261 - INFO - Datos extraídos: Colegio Hispano Britanico Iquique - Tel: 2735600 - Matrícula: 1.111
+2026-01-20 12:41:10,262 - INFO - Procesando colegio 19/147
+2026-01-20 12:41:13,875 - INFO - Datos extraídos: Colegio Hispano Italiana - Tel: 2313256 - Matrícula: 698
+2026-01-20 12:41:13,876 - INFO - Procesando colegio 20/147
+2026-01-20 12:41:18,001 - INFO - Datos extraídos: Colegio Huantajaya - Tel: 2415142 - Matrícula: 476
+2026-01-20 12:41:18,063 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (20 registros)
+2026-01-20 12:41:18,064 - INFO - Procesando colegio 21/147
+2026-01-20 12:41:22,287 - INFO - Datos extraídos: Colegio Humberstone - Tel: 2737000 - Matrícula: 1.598
+2026-01-20 12:41:22,290 - INFO - Procesando colegio 22/147
+2026-01-20 12:41:26,218 - INFO - Datos extraídos: Colegio Ingles - Tel: 2398000 - Matrícula: 1.686
+2026-01-20 12:41:26,218 - INFO - Procesando colegio 23/147
+2026-01-20 12:41:30,122 - INFO - Datos extraídos: Colegio Iquique Young School - Tel: 2726833 - Matrícula: 360
+2026-01-20 12:41:30,122 - INFO - Procesando colegio 24/147
+2026-01-20 12:41:33,743 - INFO - Datos extraídos: Colegio Irqiillariy - Tel: 2421312 - Matrícula: 163
+2026-01-20 12:41:33,744 - INFO - Procesando colegio 25/147
+2026-01-20 12:41:37,513 - INFO - Datos extraídos: Colegio Lationoamericano Las Parinas - Tel: 2326597 - Matrícula: 198
+2026-01-20 12:41:37,514 - INFO - Procesando colegio 26/147
+2026-01-20 12:41:41,315 - INFO - Datos extraídos: Colegio Lirima - Tel: 461400 - Matrícula: 750
+2026-01-20 12:41:41,315 - INFO - Procesando colegio 27/147
+2026-01-20 12:41:46,528 - INFO - Datos extraídos: Colegio Little College - Tel: 2421840 - Matrícula: 276
+2026-01-20 12:41:46,531 - INFO - Procesando colegio 28/147
+2026-01-20 12:41:51,575 - INFO - Datos extraídos: Colegio Mahatma Gandhi - Tel: 966186964 - Matrícula: 824
+2026-01-20 12:41:51,575 - INFO - Procesando colegio 29/147
+2026-01-20 12:41:55,650 - INFO - Datos extraídos: Colegio Maria Reina - Tel: 2449336 - Matrícula: 604
+2026-01-20 12:41:55,651 - INFO - Procesando colegio 30/147
+2026-01-20 12:41:59,159 - INFO - Datos extraídos: Colegio Nimara - Tel: 2440211 - Matrícula: 180
+2026-01-20 12:41:59,213 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (30 registros)
+2026-01-20 12:41:59,213 - INFO - Procesando colegio 31/147
+2026-01-20 12:42:02,907 - INFO - Datos extraídos: Colegio North College - Tel: 2426569 - Matrícula: 337
+2026-01-20 12:42:02,907 - INFO - Procesando colegio 32/147
+2026-01-20 12:42:06,575 - INFO - Datos extraídos: Colegio Nusta Kori - Tel: 2268891 - Matrícula: 425
+2026-01-20 12:42:06,575 - INFO - Procesando colegio 33/147
+2026-01-20 12:42:10,873 - INFO - Datos extraídos: Colegio Republica De Croacia - Tel: 956395410 - Matrícula: 706
+2026-01-20 12:42:10,874 - INFO - Procesando colegio 34/147
+2026-01-20 12:42:14,755 - INFO - Datos extraídos: Colegio Republica De Italia - Tel: 2241491 - Matrícula: 634
+2026-01-20 12:42:14,756 - INFO - Procesando colegio 35/147
+2026-01-20 12:42:21,601 - INFO - Datos extraídos: Colegio Salesiano De Iquique - Tel: 2411450 - Matrícula: 985
+2026-01-20 12:42:21,602 - INFO - Procesando colegio 36/147
+2026-01-20 12:42:25,779 - INFO - Datos extraídos: Colegio San Martin - Tel: 2427128 - Matrícula: 579
+2026-01-20 12:42:25,780 - INFO - Procesando colegio 37/147
+2026-01-20 12:42:29,633 - INFO - Datos extraídos: Colegio Sueño Del Mañana - Tel: 2443919 - Matrícula: 483
+2026-01-20 12:42:29,633 - INFO - Procesando colegio 38/147
+2026-01-20 12:42:33,242 - INFO - Datos extraídos: Costa College - Tel: 2451518 - Matrícula: 338
+2026-01-20 12:42:33,243 - INFO - Procesando colegio 39/147
+2026-01-20 12:42:36,819 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=20578
+2026-01-20 12:42:36,819 - INFO - Datos extraídos: Dragoncito - Tel: 57 2448271 - Matrícula: 
+2026-01-20 12:42:36,819 - INFO - Procesando colegio 40/147
+2026-01-20 12:42:40,519 - INFO - Datos extraídos: Eagles College - Tel: 2532364 - Matrícula: 696
+2026-01-20 12:42:40,544 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (40 registros)
+2026-01-20 12:42:40,544 - INFO - Procesando colegio 41/147
+2026-01-20 12:42:44,149 - INFO - Datos extraídos: Esc Esp De Lenguaje Nidos Del Saber - Tel: 311893 - Matrícula: 67
+2026-01-20 12:42:44,150 - INFO - Procesando colegio 42/147
+2026-01-20 12:42:47,862 - INFO - Datos extraídos: Esc Esp De Lenguaje Oasis Del Saber - Tel: 2583224 - Matrícula: 172
+2026-01-20 12:42:47,862 - INFO - Procesando colegio 43/147
+2026-01-20 12:42:51,325 - INFO - Datos extraídos: Esc Esp De Lenguaje Sta Carolina De Matilla - Tel: 991657947 - Matrícula: 81
+2026-01-20 12:42:51,326 - INFO - Procesando colegio 44/147
+2026-01-20 12:42:55,207 - INFO - Datos extraídos: Esc Esp Trast De La Comun Arusiña Las Tarkas - Tel: 2767560 - Matrícula: 58
+2026-01-20 12:42:55,208 - INFO - Procesando colegio 45/147
+2026-01-20 12:42:58,714 - INFO - Datos extraídos: Esc Especial De Lenguaje Kunamasta - Tel: 416976 - Matrícula: 75
+2026-01-20 12:42:58,714 - INFO - Procesando colegio 46/147
+2026-01-20 12:43:02,359 - INFO - Datos extraídos: Esc. Esp. De Lenguaje Monserrat - Tel: 2137221 - Matrícula: 133
+2026-01-20 12:43:02,359 - INFO - Procesando colegio 47/147
+2026-01-20 12:43:06,018 - INFO - Datos extraídos: Esc. Esp. Transt. Com. Santa Laura - Tel: 2321141 - Matrícula: 108
+2026-01-20 12:43:06,018 - INFO - Procesando colegio 48/147
+2026-01-20 12:43:09,567 - INFO - Datos extraídos: Esc. Especial De Trastornos Audimed Iquique - Tel: 441607 - Matrícula: 149
+2026-01-20 12:43:09,568 - INFO - Procesando colegio 49/147
+2026-01-20 12:43:13,282 - INFO - Datos extraídos: Esc.educ.especial Flor Del Inca - Tel: 544781 - Matrícula: 196
+2026-01-20 12:43:13,283 - INFO - Procesando colegio 50/147
+2026-01-20 12:43:18,948 - INFO - Datos extraídos: Esc.educ.gral.bas.y Des.art.violeta Parra - Tel: 982530038 - Matrícula: 474
+2026-01-20 12:43:19,011 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (50 registros)
+2026-01-20 12:43:19,011 - INFO - Procesando colegio 51/147
+2026-01-20 12:43:22,722 - INFO - Datos extraídos: Esc.esp.de Trans. De La Com. Arusina - Tel: 2470860 - Matrícula: 67
+2026-01-20 12:43:22,725 - INFO - Procesando colegio 52/147
+2026-01-20 12:43:26,317 - INFO - Datos extraídos: Esc.trast.de La Com.flor De Lirio - Tel: 2328373 - Matrícula: 205
+2026-01-20 12:43:26,318 - INFO - Procesando colegio 53/147
+2026-01-20 12:43:29,791 - INFO - Datos extraídos: Escuela Almirante Patricio Lynch - Tel: 2544849 - Matrícula: 881
+2026-01-20 12:43:29,791 - INFO - Procesando colegio 54/147
+2026-01-20 12:43:34,097 - INFO - Datos extraídos: Escuela Basica Corona School - Tel: 2262931 - Matrícula: 751
+2026-01-20 12:43:34,098 - INFO - Procesando colegio 55/147
+2026-01-20 12:43:39,647 - INFO - Datos extraídos: Escuela Basica Francisco Forgione - Tel: 2425927 - Matrícula: 339
+2026-01-20 12:43:39,647 - INFO - Procesando colegio 56/147
+2026-01-20 12:43:43,912 - INFO - Datos extraídos: Escuela Caleta Chanavayita - Tel: 20366446 - Matrícula: 187
+2026-01-20 12:43:43,914 - INFO - Procesando colegio 57/147
+2026-01-20 12:43:47,739 - INFO - Datos extraídos: Escuela Caleta San Marcos - Tel: 92385765 - Matrícula: 103
+2026-01-20 12:43:47,739 - INFO - Procesando colegio 58/147
+2026-01-20 12:43:51,204 - INFO - Datos extraídos: Escuela Centenario - Tel: 2544768 - Matrícula: 692
+2026-01-20 12:43:51,205 - INFO - Procesando colegio 59/147
+2026-01-20 12:43:55,213 - INFO - Datos extraídos: Escuela Chipana - Tel: 2452809 - Matrícula: 586
+2026-01-20 12:43:55,214 - INFO - Procesando colegio 60/147
+2026-01-20 12:43:58,756 - INFO - Datos extraídos: Escuela De Lenguaje Angeluz - Tel: 216065 - Matrícula: 79
+2026-01-20 12:43:58,792 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (60 registros)
+2026-01-20 12:43:58,792 - INFO - Procesando colegio 61/147
+2026-01-20 12:44:03,927 - INFO - Datos extraídos: Escuela De Lenguaje Kerima Ltda. - Tel: 333971 - Matrícula: 145
+2026-01-20 12:44:03,927 - INFO - Procesando colegio 62/147
+2026-01-20 12:44:07,431 - INFO - Datos extraídos: Escuela De Lenguaje Momentos Preciosos - Tel: 420674 - Matrícula: 83
+2026-01-20 12:44:07,431 - INFO - Procesando colegio 63/147
+2026-01-20 12:44:11,003 - INFO - Datos extraídos: Escuela De Lenguaje Nube Y Sol - Tel: 2418722 - Matrícula: 59
+2026-01-20 12:44:11,004 - INFO - Procesando colegio 64/147
+2026-01-20 12:44:14,474 - INFO - Datos extraídos: Escuela De Lenguaje Nuevo Inti - Tel: 2716607 - Matrícula: 67
+2026-01-20 12:44:14,475 - INFO - Procesando colegio 65/147
+2026-01-20 12:44:18,928 - INFO - Datos extraídos: Escuela Eduardo Llanos - Tel: 2544844 - Matrícula: 682
+2026-01-20 12:44:18,929 - INFO - Procesando colegio 66/147
+2026-01-20 12:44:22,466 - INFO - Datos extraídos: Escuela Especial De Lenguaje Los Andes - Tel: 723857 - Matrícula: 119
+2026-01-20 12:44:22,467 - INFO - Procesando colegio 67/147
+2026-01-20 12:44:26,021 - INFO - Datos extraídos: Escuela Especial De Lenguaje San Joaquin - Tel: 2439731 - Matrícula: 79
+2026-01-20 12:44:26,022 - INFO - Procesando colegio 68/147
+2026-01-20 12:44:29,736 - INFO - Datos extraídos: Escuela Especial Padre Pio - Tel: 2412206 - Matrícula: 120
+2026-01-20 12:44:29,737 - INFO - Procesando colegio 69/147
+2026-01-20 12:44:34,249 - INFO - Datos extraídos: Escuela Gabriela Mistral - Tel: 227263473 - Matrícula: 682
+2026-01-20 12:44:34,250 - INFO - Procesando colegio 70/147
+2026-01-20 12:44:39,141 - INFO - Datos extraídos: Escuela Latinoamericana - Tel: 927558714 - Matrícula: 126
+2026-01-20 12:44:39,198 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (70 registros)
+2026-01-20 12:44:39,198 - INFO - Procesando colegio 71/147
+2026-01-20 12:44:42,594 - INFO - Datos extraídos: Escuela Paula Jaraquemada Alquizar - Tel: 2544764 - Matrícula: 658
+2026-01-20 12:44:42,595 - INFO - Procesando colegio 72/147
+2026-01-20 12:44:46,330 - INFO - Datos extraídos: Escuela Placido Villarroel - Tel: 2544754 - Matrícula: 486
+2026-01-20 12:44:46,331 - INFO - Procesando colegio 73/147
+2026-01-20 12:44:50,230 - INFO - Datos extraídos: Escuela Profesor Manuel Castro Ramos - Tel: 227263478 - Matrícula: 1.088
+2026-01-20 12:44:50,231 - INFO - Procesando colegio 74/147
+2026-01-20 12:44:53,724 - INFO - Datos extraídos: Escuela Thilda Portillo Olivares - Tel: 2544774 - Matrícula: 311
+2026-01-20 12:44:53,725 - INFO - Procesando colegio 75/147
+2026-01-20 12:44:57,240 - INFO - Datos extraídos: Escuelita Especial De Lenguaje Mamiña - Tel: 2444721 - Matrícula: 40
+2026-01-20 12:44:57,241 - INFO - Procesando colegio 76/147
+2026-01-20 12:45:00,674 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31359
+2026-01-20 12:45:00,674 - INFO - Datos extraídos: Ike - Ike - Tel: 57 2435713 - Matrícula: 
+2026-01-20 12:45:00,674 - INFO - Procesando colegio 77/147
+2026-01-20 12:45:04,690 - INFO - Datos extraídos: Inst. Com. De Iquique Baldomero Wolnitzky - Tel: 2544808 - Matrícula: 579
+2026-01-20 12:45:04,690 - INFO - Procesando colegio 78/147
+2026-01-20 12:45:13,405 - INFO - Datos extraídos: Instituto Del Mar Almirante Carlos Condel - Tel: 988144104 - Matrícula: 690
+2026-01-20 12:45:13,406 - INFO - Procesando colegio 79/147
+2026-01-20 12:45:16,905 - INFO - Datos extraídos: Iqra Arabian British School - Tel: 91367305 - Matrícula: 490
+2026-01-20 12:45:16,905 - INFO - Procesando colegio 80/147
+2026-01-20 12:45:20,324 - INFO - Datos extraídos: J. I. Capullito - Tel: 2405949 - Matrícula: 0
+2026-01-20 12:45:20,508 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (80 registros)
+2026-01-20 12:45:20,508 - INFO - Procesando colegio 81/147
+2026-01-20 12:45:24,034 - INFO - Datos extraídos: J. I. Mi Rincon - Tel: 2720086 - Matrícula: 57
+2026-01-20 12:45:24,034 - INFO - Procesando colegio 82/147
+2026-01-20 12:45:27,483 - INFO - Datos extraídos: J. I. Agu - Tel: 2381416 - Matrícula: 0
+2026-01-20 12:45:27,484 - INFO - Procesando colegio 83/147
+2026-01-20 12:45:31,044 - INFO - Datos extraídos: J. I. My Friend - Tel: 2445307 - Matrícula: 0
+2026-01-20 12:45:31,044 - INFO - Procesando colegio 84/147
+2026-01-20 12:45:34,572 - INFO - Datos extraídos: J. I. Anatiri - Tel: 2417474 - Matrícula: 10
+2026-01-20 12:45:34,573 - INFO - Procesando colegio 85/147
+2026-01-20 12:45:38,584 - INFO - Datos extraídos: J. I. Little Sun - Tel: 318817 - Matrícula: 0
+2026-01-20 12:45:38,585 - INFO - Procesando colegio 86/147
+2026-01-20 12:45:42,019 - INFO - Datos extraídos: J. I. Pukara - Tel: 436816 - Matrícula: 0
+2026-01-20 12:45:42,019 - INFO - Procesando colegio 87/147
+2026-01-20 12:45:45,790 - INFO - Datos extraídos: J.i.saint Margaret Rose Garden - Tel: 2262814 - Matrícula: 189
+2026-01-20 12:45:45,791 - INFO - Procesando colegio 88/147
+2026-01-20 12:45:49,353 - INFO - Datos extraídos: Jardin Infantil Acuarela - Tel: 2501668 - Matrícula: 39
+2026-01-20 12:45:49,353 - INFO - Procesando colegio 89/147
+2026-01-20 12:45:52,836 - INFO - Datos extraídos: Jardin Infantil Amauta Preschool - Tel: 2346545 - Matrícula: 0
+2026-01-20 12:45:52,837 - INFO - Procesando colegio 90/147
+2026-01-20 12:45:56,249 - INFO - Datos extraídos: Jardin Infantil Amtiri - Tel: 1219888 - Matrícula: 66
+2026-01-20 12:45:56,278 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (90 registros)
+2026-01-20 12:45:56,278 - INFO - Procesando colegio 91/147
+2026-01-20 12:45:59,814 - INFO - Datos extraídos: Jardin Infantil Anakena - Tel: 381083 - Matrícula: 23
+2026-01-20 12:45:59,815 - INFO - Procesando colegio 92/147
+2026-01-20 12:46:03,355 - INFO - Datos extraídos: Jardin Infantil Caperuzo - Tel: 2431548 - Matrícula: 23
+2026-01-20 12:46:03,355 - INFO - Procesando colegio 93/147
+2026-01-20 12:46:06,930 - INFO - Datos extraídos: Jardin Infantil Caracola - Tel: 76492948 - Matrícula: 0
+2026-01-20 12:46:06,930 - INFO - Procesando colegio 94/147
+2026-01-20 12:46:10,550 - INFO - Datos extraídos: Jardin Infantil Caritas Contentas - Tel: 2441308 - Matrícula: 39
+2026-01-20 12:46:10,551 - INFO - Procesando colegio 95/147
+2026-01-20 12:46:14,080 - INFO - Datos extraídos: Jardin Infantil Conejito - Tel:  - Matrícula: 3
+2026-01-20 12:46:14,081 - INFO - Procesando colegio 96/147
+2026-01-20 12:46:17,676 - INFO - Datos extraídos: Jardin Infantil D`stephano - Tel: 2417858 - Matrícula: 24
+2026-01-20 12:46:17,676 - INFO - Procesando colegio 97/147
+2026-01-20 12:46:21,147 - INFO - Datos extraídos: Jardin Infantil Daely - Tel: 2718494 - Matrícula: 0
+2026-01-20 12:46:21,148 - INFO - Procesando colegio 98/147
+2026-01-20 12:46:24,572 - INFO - Datos extraídos: Jardin Infantil Ecosemillita - Tel: 2319331 - Matrícula: 0
+2026-01-20 12:46:24,573 - INFO - Procesando colegio 99/147
+2026-01-20 12:46:29,148 - INFO - Datos extraídos: Jardin Infantil El Llamito - Tel: 315363 - Matrícula: 31
+2026-01-20 12:46:29,148 - INFO - Procesando colegio 100/147
+2026-01-20 12:46:36,428 - INFO - Datos extraídos: Jardin Infantil Emmanuelito - Tel: 982764227 - Matrícula: 45
+2026-01-20 12:46:36,531 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (100 registros)
+2026-01-20 12:46:36,531 - INFO - Procesando colegio 101/147
+2026-01-20 12:46:40,008 - INFO - Datos extraídos: Jardin Infantil Girasoles - Tel: 2442872 - Matrícula: 22
+2026-01-20 12:46:40,009 - INFO - Procesando colegio 102/147
+2026-01-20 12:46:43,520 - INFO - Datos extraídos: Jardin Infantil Happy Day - Tel: 2761748 - Matrícula: 0
+2026-01-20 12:46:43,520 - INFO - Procesando colegio 103/147
+2026-01-20 12:46:47,242 - INFO - Datos extraídos: Jardin Infantil Happy Garden - Tel: 2411918 - Matrícula: 0
+2026-01-20 12:46:47,242 - INFO - Procesando colegio 104/147
+2026-01-20 12:46:50,686 - INFO - Datos extraídos: Jardin Infantil Hispano Britanico S. A. - Tel: 2735639 - Matrícula: 179
+2026-01-20 12:46:50,687 - INFO - Procesando colegio 105/147
+2026-01-20 12:46:54,203 - INFO - Datos extraídos: Jardin Infantil Los Tatitas - Tel: 2441518 - Matrícula: 26
+2026-01-20 12:46:54,204 - INFO - Procesando colegio 106/147
+2026-01-20 12:46:57,900 - INFO - Datos extraídos: Jardin Infantil Mandala Garden - Tel: 382750 - Matrícula: 0
+2026-01-20 12:46:57,900 - INFO - Procesando colegio 107/147
+2026-01-20 12:47:01,535 - INFO - Datos extraídos: Jardin Infantil Matias - Tel: 317342 - Matrícula: 23
+2026-01-20 12:47:01,535 - INFO - Procesando colegio 108/147
+2026-01-20 12:47:05,509 - INFO - Datos extraídos: Jardin Infantil Melodia - Tel: 2323142 - Matrícula: 0
+2026-01-20 12:47:05,510 - INFO - Procesando colegio 109/147
+2026-01-20 12:47:09,679 - INFO - Datos extraídos: Jardin Infantil Mis Primeros Pasos 2 - Tel: 2768670 - Matrícula: 111
+2026-01-20 12:47:09,680 - INFO - Procesando colegio 110/147
+2026-01-20 12:47:13,976 - INFO - Datos extraídos: Jardin Infantil Mis Primeros Pasos - Tel: 2320213 - Matrícula: 80
+2026-01-20 12:47:14,042 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (110 registros)
+2026-01-20 12:47:14,042 - INFO - Procesando colegio 111/147
+2026-01-20 12:47:17,792 - INFO - Datos extraídos: Jardin Infantil Munayi Montessori - Tel: 2761135 - Matrícula: 0
+2026-01-20 12:47:17,793 - INFO - Procesando colegio 112/147
+2026-01-20 12:47:22,833 - INFO - Datos extraídos: Jardin Infantil Noctilucas - Tel: 2326354 - Matrícula: 25
+2026-01-20 12:47:22,833 - INFO - Procesando colegio 113/147
+2026-01-20 12:47:26,340 - INFO - Datos extraídos: Jardin Infantil Papelucho - Tel: 79724676 - Matrícula: 22
+2026-01-20 12:47:26,340 - INFO - Procesando colegio 114/147
+2026-01-20 12:47:29,909 - INFO - Datos extraídos: Jardin Infantil Pececito Dorado - Tel: 435873 - Matrícula: 0
+2026-01-20 12:47:29,909 - INFO - Procesando colegio 115/147
+2026-01-20 12:47:33,369 - INFO - Datos extraídos: Jardin Infantil Pillancito - Tel:  - Matrícula: 0
+2026-01-20 12:47:33,369 - INFO - Procesando colegio 116/147
+2026-01-20 12:47:36,783 - INFO - Datos extraídos: Jardin Infantil Rucalem - Tel: 2325828 - Matrícula: 0
+2026-01-20 12:47:36,783 - INFO - Procesando colegio 117/147
+2026-01-20 12:47:40,358 - INFO - Datos extraídos: Jardin Infantil Samca Arumanti De Iquique - Tel: 2443919 - Matrícula: 141
+2026-01-20 12:47:40,359 - INFO - Procesando colegio 118/147
+2026-01-20 12:47:44,490 - INFO - Datos extraídos: Jardin Infantil Talpiot - Tel: 2426927 - Matrícula: 48
+2026-01-20 12:47:44,490 - INFO - Procesando colegio 119/147
+2026-01-20 12:47:48,074 - INFO - Datos extraídos: Jardin Infantil Willka - Tel: 2761135 - Matrícula: 0
+2026-01-20 12:47:48,075 - INFO - Procesando colegio 120/147
+2026-01-20 12:47:51,664 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Arco Iris Del Saber - Tel: 2767351 - Matrícula: 0
+2026-01-20 12:47:51,746 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (120 registros)
+2026-01-20 12:47:51,746 - INFO - Procesando colegio 121/147
+2026-01-20 12:47:55,249 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Del Angel - Tel: 313031 - Matrícula: 0
+2026-01-20 12:47:55,249 - INFO - Procesando colegio 122/147
+2026-01-20 12:47:58,685 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Ecokuna - Tel: 962072960 - Matrícula: 0
+2026-01-20 12:47:58,685 - INFO - Procesando colegio 123/147
+2026-01-20 12:48:02,392 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna El Soldadito - Tel: 2400800 - Matrícula: 0
+2026-01-20 12:48:02,392 - INFO - Procesando colegio 124/147
+2026-01-20 12:48:05,818 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Emita - Tel: 2313983 - Matrícula: 0
+2026-01-20 12:48:05,818 - INFO - Procesando colegio 125/147
+2026-01-20 12:48:09,300 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Manutara - Tel: 2248732 - Matrícula: 0
+2026-01-20 12:48:09,301 - INFO - Procesando colegio 126/147
+2026-01-20 12:48:12,858 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna Polillita Del Desierto - Tel:  - Matrícula: 0
+2026-01-20 12:48:12,859 - INFO - Procesando colegio 127/147
+2026-01-20 12:48:16,371 - INFO - Datos extraídos: Jardin Infantil Y Sala Cuna San Francisco De Asis - Tel: 2765892 - Matrícula: 0
+2026-01-20 12:48:16,372 - INFO - Procesando colegio 128/147
+2026-01-20 12:48:19,840 - INFO - Datos extraídos: Jardín Infantil Y Sala Cuna Krippe - Tel: 2445441 - Matrícula: 0
+2026-01-20 12:48:19,840 - INFO - Procesando colegio 129/147
+2026-01-20 12:48:25,073 - INFO - Datos extraídos: Liceo Atenea - Tel: 2413757 - Matrícula: 342
+2026-01-20 12:48:25,074 - INFO - Procesando colegio 130/147
+2026-01-20 12:48:29,544 - INFO - Datos extraídos: Liceo Bicentenario Domingo Santa Maria De Iqq. - Tel: 2241341 - Matrícula: 1.760
+2026-01-20 12:48:29,597 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (130 registros)
+2026-01-20 12:48:29,597 - INFO - Procesando colegio 131/147
+2026-01-20 12:48:33,193 - INFO - Datos extraídos: Liceo C.e.i.a. Jose Alejandro Soria Varas - Tel: 2544840 - Matrícula: 596
+2026-01-20 12:48:33,194 - INFO - Procesando colegio 132/147
+2026-01-20 12:48:36,967 - INFO - Datos extraídos: Liceo Libert. Gral.bernardo O´higgins - Tel: 2544813 - Matrícula: 734
+2026-01-20 12:48:36,967 - INFO - Procesando colegio 133/147
+2026-01-20 12:48:40,892 - INFO - Datos extraídos: Liceo Luis Cruz Martinez - Tel: 2544829 - Matrícula: 1.131
+2026-01-20 12:48:40,892 - INFO - Procesando colegio 134/147
+2026-01-20 12:48:47,704 - INFO - Datos extraídos: Liceo Maria Auxiliadora - Tel: 984297741 - Matrícula: 861
+2026-01-20 12:48:47,705 - INFO - Procesando colegio 135/147
+2026-01-20 12:48:52,742 - INFO - Datos extraídos: Liceo Pdte. Anibal Pinto Garmendia. - Tel: 2262689 - Matrícula: 767
+2026-01-20 12:48:52,742 - INFO - Procesando colegio 136/147
+2026-01-20 12:48:56,942 - INFO - Datos extraídos: Liceo Politec. Jose Gutierrez De La Fuen - Tel: 227263473 - Matrícula: 767
+2026-01-20 12:48:56,943 - INFO - Procesando colegio 137/147
+2026-01-20 12:49:00,703 - INFO - Datos extraídos: Liceo Samca Arumanti - Tel: 2385900 - Matrícula: 943
+2026-01-20 12:49:00,705 - INFO - Procesando colegio 138/147
+2026-01-20 12:49:04,315 - INFO - Datos extraídos: Liceo Superior Gabriela Mistral - Tel: 2424432 - Matrícula: 330
+2026-01-20 12:49:04,316 - INFO - Procesando colegio 139/147
+2026-01-20 12:49:07,800 - INFO - Datos extraídos: Liceo Tecnico Profesional De Adultos - Tel: 2544821 - Matrícula: 508
+2026-01-20 12:49:07,801 - INFO - Procesando colegio 140/147
+2026-01-20 12:49:11,392 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=20575
+2026-01-20 12:49:11,392 - INFO - Datos extraídos: Los Guayabitos - Tel: 57 2437047 - Matrícula: 
+2026-01-20 12:49:11,497 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (140 registros)
+2026-01-20 12:49:11,497 - INFO - Procesando colegio 141/147
+2026-01-20 12:49:14,901 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31399
+2026-01-20 12:49:14,902 - INFO - Datos extraídos: Los Patitos - Tel: 57 2483002 - Matrícula: 
+2026-01-20 12:49:14,902 - INFO - Procesando colegio 142/147
+2026-01-20 12:49:18,402 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=20579
+2026-01-20 12:49:18,403 - INFO - Datos extraídos: Norteñito - Tel: 57 2431084 - Matrícula: 
+2026-01-20 12:49:18,403 - INFO - Procesando colegio 143/147
+2026-01-20 12:49:21,881 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=20576
+2026-01-20 12:49:21,881 - INFO - Datos extraídos: Rayito De Sol - Tel: 57 2471703 - Matrícula: 
+2026-01-20 12:49:21,881 - INFO - Procesando colegio 144/147
+2026-01-20 12:49:25,383 - INFO - Datos extraídos: Sala Cuna Amuyuni - Tel:  - Matrícula: 0
+2026-01-20 12:49:25,384 - INFO - Procesando colegio 145/147
+2026-01-20 12:49:28,776 - INFO - Datos extraídos: Sala Cuna Y Jardin Infantil Pachakuti - Tel:  - Matrícula: 0
+2026-01-20 12:49:28,777 - INFO - Procesando colegio 146/147
+2026-01-20 12:49:32,412 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=41906
+2026-01-20 12:49:32,412 - INFO - Datos extraídos: Sala Cuna Y Jardín Infantil De Integra Altos De Playa Blanca - Tel: 000000000 - Matrícula: 
+2026-01-20 12:49:32,412 - INFO - Procesando colegio 147/147
+2026-01-20 12:49:35,862 - INFO - Datos extraídos: Sala Cuna Y Jardín Infantil Eco House Garden - Tel: 24173955 - Matrícula: 0
+2026-01-20 12:49:35,870 - INFO - Comuna IQUIQUE completada. Total registros: 147
+2026-01-20 12:49:35,870 - INFO - 
+Procesando comuna: ALTO HOSPICIO
+2026-01-20 12:49:47,629 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65201): Failed to establish a new connection: [Errno 61] Connection refused")': /session/8a645b61c8199d23d40f0762f1e8c189
+2026-01-20 12:49:47,635 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65201): Failed to establish a new connection: [Errno 61] Connection refused")': /session/8a645b61c8199d23d40f0762f1e8c189
+2026-01-20 12:49:47,635 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=65201): Failed to establish a new connection: [Errno 61] Connection refused")': /session/8a645b61c8199d23d40f0762f1e8c189
+2026-01-20 12:49:47,641 - INFO - 
+Scraping interrumpido por el usuario
+2026-01-20 12:49:47,697 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (147 registros)
+2026-01-20 12:59:59,301 - INFO - Iniciando scraping completo...
+2026-01-20 13:00:00,515 - INFO - 
+Scraping interrumpido por el usuario
+2026-01-20 13:00:00,516 - WARNING - No hay datos para guardar
+2026-01-20 13:00:36,668 - INFO - Iniciando scraping completo...
+2026-01-20 13:00:39,269 - INFO - Driver de Chrome configurado correctamente
+2026-01-20 13:00:43,011 - INFO - Obteniendo lista de regiones...
+2026-01-20 13:00:43,175 - INFO - Se encontraron 16 regiones
+2026-01-20 13:00:43,175 - INFO - 
+============================================================
+2026-01-20 13:00:43,175 - INFO - Procesando región: DE TARAPACÁ
+2026-01-20 13:00:43,175 - INFO - ============================================================
+2026-01-20 13:00:49,168 - INFO - Se encontraron 7 comunas
+2026-01-20 13:00:49,169 - INFO - 
+Procesando comuna: IQUIQUE
+2026-01-20 13:01:02,810 - INFO - Se encontraron 147 colegios en esta página
+2026-01-20 13:01:02,812 - INFO - Procesando colegio 1/147
+2026-01-20 13:01:06,598 - INFO - Datos extraídos: Academia Iquique - Tel: 2247188 - Matrícula: 387
+2026-01-20 13:01:06,599 - INFO - Procesando colegio 2/147
+2026-01-20 13:01:10,226 - INFO - Datos extraídos: Academia Nerudiana - Tel: 552765745 - Matrícula: 168
+2026-01-20 13:01:10,227 - INFO - Procesando colegio 3/147
+2026-01-20 13:01:13,819 - INFO - Datos extraídos: Aula Hospitalaria San Sebastian De Iquique - Tel: 993970597 - Matrícula: 153
+2026-01-20 13:01:13,820 - INFO - Procesando colegio 4/147
+2026-01-20 13:01:17,412 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31474
+2026-01-20 13:01:17,412 - INFO - Datos extraídos: Caballito De Mar - Tel: 57 2449640 - Matrícula: 
+2026-01-20 13:01:17,413 - INFO - Procesando colegio 5/147
+2026-01-20 13:01:20,853 - WARNING - No se pudo extraer la matrícula total de https://mi.mineduc.cl/mime-web/mvc/mime/ficha?rbd=31414
+2026-01-20 13:01:20,854 - INFO - Datos extraídos: Caracolito - Tel: 57 2473170 - Matrícula: 
+2026-01-20 13:01:20,854 - INFO - Procesando colegio 6/147
+2026-01-20 13:01:24,657 - INFO - Datos extraídos: Centro De Capacitacion Laboral - Tel: 544777 - Matrícula: 84
+2026-01-20 13:01:24,658 - INFO - Procesando colegio 7/147
+2026-01-20 13:01:28,124 - INFO - Datos extraídos: Centro Trat. Integ. Los Tamarugos - Tel: 225190 - Matrícula: 113
+2026-01-20 13:01:28,125 - INFO - Procesando colegio 8/147
+2026-01-20 13:01:31,659 - INFO - Datos extraídos: Colegio Academia Tarapaca Orella - Tel: 2265200 - Matrícula: 1.301
+2026-01-20 13:01:31,659 - INFO - Procesando colegio 9/147
+2026-01-20 13:01:31,678 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55654): Failed to establish a new connection: [Errno 61] Connection refused")': /session/50b905fd1cab10e8b891d2696f3bd2e3
+2026-01-20 13:01:31,679 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55654): Failed to establish a new connection: [Errno 61] Connection refused")': /session/50b905fd1cab10e8b891d2696f3bd2e3
+2026-01-20 13:01:31,680 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55654): Failed to establish a new connection: [Errno 61] Connection refused")': /session/50b905fd1cab10e8b891d2696f3bd2e3
+2026-01-20 13:01:31,683 - INFO - 
+Scraping interrumpido por el usuario
+2026-01-20 13:01:31,917 - INFO - Datos guardados en colegios_chile_intermediate.xlsx (8 registros)
